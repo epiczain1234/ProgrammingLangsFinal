@@ -1,0 +1,43 @@
+﻿<Properties StartupConfiguration="{937B06DC-5FFE-477D-BE1F-ADAE8973250B}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="PartyProject/Controllers/HomeController.cs">
+    <Files>
+      <File FileName="PartyProject/Controllers/HomeController.cs" Line="1" Column="1" />
+      <File FileName="PartyProject/Views/Home/Index.cshtml" Line="1" Column="64" />
+      <File FileName="PartyProject/App_Start/RouteConfig.cs" Line="1" Column="1" />
+      <File FileName="PartyProject/Global.asax.cs" Line="1" Column="1" />
+      <File FileName="PartyProject/packages.config" Line="1" Column="1" />
+      <File FileName="PartyProject/Web.config" Line="1" Column="1" />
+      <File FileName="PartyProject/Views/Shared/_Layout.cshtml" Line="1" Column="1" />
+      <File FileName="PartyProject/Views/Shared/Error.cshtml" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="PartyProject" expanded="True">
+            <Node name="PartyProject" expanded="True">
+              <Node name="App_Start" expanded="True" />
+              <Node name="Controllers" expanded="True">
+                <Node name="HomeController.cs" selected="True" />
+              </Node>
+              <Node name="Views" expanded="True">
+                <Node name="Home" expanded="True" />
+                <Node name="Shared" expanded="True" />
+              </Node>
+              <Node name="Global.asax" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.PartyProject PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
